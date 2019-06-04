@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email:              1062067538@qq.com
 #twitter:            username
-facebook:           username
+#facebook:           username
 github-url:         KinGHJS  
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -55,12 +55,13 @@ github-url:         KinGHJS
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:              alloysheng
 #flickr:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+qq                  username
 
 # Gems
 gems:
